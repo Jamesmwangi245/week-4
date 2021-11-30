@@ -1,0 +1,14 @@
+.image--align{
+    display: none;
+}
+.img--align {
+    display: flex;
+    justify-content: center;
+}
+
+.img--align>img {
+    width: 100%;
+}
+.imageshow{
+    display: none;
+}
