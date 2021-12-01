@@ -1,0 +1,17 @@
+.image--align{
+    display: none;
+}
+.img--align {
+    display: flex;
+    justify-content: center;
+}
+
+.img--align>img {
+    width: 100%;
+}
+.imageshow{
+    display: none;
+}
+footer{
+    background-color: rgb(181, 184, 57);
+}
